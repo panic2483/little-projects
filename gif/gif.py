@@ -1,1 +1,1 @@
-import imageio as iio
+import imageio.v3 as iio
